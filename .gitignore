@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+ngrf_out/
+data/
+.ipynb_checkpoints/
